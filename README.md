@@ -58,7 +58,7 @@ You can include several new things in your password policy. My recommendations a
 • Include special character, Capital and Small letters, numbers in your password.
 • Don’t let users include their username, actual name, date of birth and other personal information while creating a password.
 • Train your users to follow these policies to keep their passwords safe.
-
+```
 ## Resources 
 
 https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
